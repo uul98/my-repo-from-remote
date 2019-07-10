@@ -10,6 +10,7 @@ body {
 
 #profile-container{
     max-width: 300px;
+    margin: 80px auto;
     shorthand property for setting border width, style, and color.
     border:1px solid gray;
     border-radius: 6px;
